@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/H:/cursos/DAM/2%20Ano/Asignaturas/Proyecto/Programas/API%20en%20Java/API_SupremTournaments/src/java/suprem_tournaments/Gestor.java</file>
+            <file>file:/H:/cursos/DAM/2%20Ano/Asignaturas/Proyecto/Programas/API%20en%20Java/API_SupremTournaments/src/java/apirest/ServiceRESTSolicitudesContinuas.java</file>
+            <file>file:/H:/cursos/DAM/2%20Ano/Asignaturas/Proyecto/Programas/API%20en%20Java/API_SupremTournaments/src/java/suprem_tournaments/CombatesIndividualesJpaController.java</file>
+            <file>file:/H:/cursos/DAM/2%20Ano/Asignaturas/Proyecto/Programas/API%20en%20Java/API_SupremTournaments/src/java/suprem_tournaments/SolicitudesContinuas.java</file>
+            <file>file:/H:/cursos/DAM/2%20Ano/Asignaturas/Proyecto/Programas/API%20en%20Java/API_SupremTournaments/src/java/suprem_tournaments/Solicitudes.java</file>
+            <file>file:/H:/cursos/DAM/2%20Ano/Asignaturas/Proyecto/Programas/API%20en%20Java/API_SupremTournaments/src/conf/persistence.xml</file>
+            <file>file:/H:/cursos/DAM/2%20Ano/Asignaturas/Proyecto/Programas/API%20en%20Java/API_SupremTournaments/src/java/apirest/ServiceRESTTorneoIndividual.java</file>
+            <file>file:/H:/cursos/DAM/2%20Ano/Asignaturas/Proyecto/Programas/API%20en%20Java/API_SupremTournaments/src/java/suprem_tournaments/CombatesIndividuales.java</file>
+            <file>file:/H:/cursos/DAM/2%20Ano/Asignaturas/Proyecto/Programas/API%20en%20Java/API_SupremTournaments/src/java/apirest/ServiceRESTSolicitudes.java</file>
+            <file>file:/H:/cursos/DAM/2%20Ano/Asignaturas/Proyecto/Programas/API%20en%20Java/API_SupremTournaments/src/java/suprem_tournaments/TorneosIndividuales.java</file>
+            <file>file:/H:/cursos/DAM/2%20Ano/Asignaturas/Proyecto/Programas/API%20en%20Java/API_SupremTournaments/src/java/apirest/ServiceRESTGestor.java</file>
+            <file>file:/H:/cursos/DAM/2%20Ano/Asignaturas/Proyecto/Programas/API%20en%20Java/API_SupremTournaments/src/java/apirest/ServiceAuthJwt.java</file>
+        </group>
+    </open-files>
+</project-private>
